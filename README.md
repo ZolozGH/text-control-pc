@@ -1,6 +1,7 @@
 Control your pc, or your friends with this discord controller bot written in c# !help command to get started in the bot.
 COMMANDS!
 https://github.com/ZolozGH/text-control-pc/edit/main/README.md
+
 !speak talk - No description available
 
 !nbomb count - No description available
